@@ -56,6 +56,10 @@ namespace Interest_Calculator_SF_MASOKA_39069656
                     }
                 }
             }
+            else
+            {
+                MessageBox.Show("Enter Valid Principle Amount");
+            }
 
         }
 
