@@ -201,6 +201,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.ClientSize = new System.Drawing.Size(356, 450);
             this.Controls.Add(this.panel1);
             this.Name = "PeriodCalculator";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Period Calculator";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

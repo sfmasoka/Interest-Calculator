@@ -181,6 +181,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.BackButton);
             this.Controls.Add(this.panel1);
             this.Name = "Help";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Help";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

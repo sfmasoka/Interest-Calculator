@@ -340,6 +340,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Name = "CompoundInterest";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Compound Interest";
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

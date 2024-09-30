@@ -301,6 +301,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.AdditionalPanel);
             this.Controls.Add(this.panel1);
             this.Name = "Main";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Main Menu";
             this.Load += new System.EventHandler(this.Main_Load);
             this.panel1.ResumeLayout(false);

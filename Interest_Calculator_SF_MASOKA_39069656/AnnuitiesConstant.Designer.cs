@@ -421,6 +421,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "AnnuitiesConstant";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Investments/Loans Repayment (Constant amount)";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

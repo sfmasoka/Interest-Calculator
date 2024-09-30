@@ -441,6 +441,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Name = "AnnuitiesIncreases";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Investments/Loans repayment (Increasing amount)";
             this.Load += new System.EventHandler(this.AnnuitiesIncreases_Load);
             this.panel2.ResumeLayout(false);

@@ -292,6 +292,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
             this.Controls.Add(this.OutputPanel);
             this.Controls.Add(this.InputPanel);
             this.Name = "InterestConversion";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Interest Rate Converter";
             this.Load += new System.EventHandler(this.InterestConversion_Load);
             this.InputPanel.ResumeLayout(false);
