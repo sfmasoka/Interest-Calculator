@@ -340,6 +340,7 @@ namespace Interest_Calculator_SF_MASOKA_39069656
         private void AnnuitiesIncreases_Load(object sender, EventArgs e)
         {
             //InputIntRatetextBox.Text = "";
+            RatePerPeriodtextBox.Focus();
         }
 
         private void ClearButton_Click(object sender, EventArgs e)

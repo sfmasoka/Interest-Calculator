@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|c:\\users\\fsmas\\onedrive\\desktop\\repos\\interest-calculator\\interest_calculator_sf_masoka_39069656\\annuitiesincreases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|solutionrelative:interest_calculator_sf_masoka_39069656\\annuitiesincreases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|c:\\users\\fsmas\\onedrive\\desktop\\repos\\interest-calculator\\interest_calculator_sf_masoka_39069656\\annuitiesincreases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|solutionrelative:interest_calculator_sf_masoka_39069656\\annuitiesincreases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|c:\\users\\fsmas\\onedrive\\desktop\\repos\\interest-calculator\\interest_calculator_sf_masoka_39069656\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60069A77-F604-48F7-AC9B-4B1747126AF3}|Interest_Calculator_SF_MASOKA_39069656\\Interest_Calculator_SF_MASOKA_39069656.csproj|solutionrelative:interest_calculator_sf_masoka_39069656\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnnuitiesIncreases.cs",
+              "DocumentMoniker": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "RelativeDocumentMoniker": "Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "ToolTip": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "RelativeToolTip": "Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAowFYBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:46:12.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnnuitiesIncreases.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "RelativeDocumentMoniker": "Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs",
+              "ToolTip": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs [Design]",
+              "RelativeToolTip": "Interest_Calculator_SF_MASOKA_39069656\\AnnuitiesIncreases.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:46:03.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\Main.cs",
+              "RelativeDocumentMoniker": "Interest_Calculator_SF_MASOKA_39069656\\Main.cs",
+              "ToolTip": "C:\\Users\\fsmas\\OneDrive\\Desktop\\repos\\Interest-Calculator\\Interest_Calculator_SF_MASOKA_39069656\\Main.cs [Design]",
+              "RelativeToolTip": "Interest_Calculator_SF_MASOKA_39069656\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:42:35.049Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
