@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Interest_Calculator_SF_MASOKA_39069656.exe" version="1.0.0.1" publicKeyToken="4f34826c849176a1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Interest_Calculator_SF_MASOKA_39069656" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Interest_Calculator_SF_MASOKA_39069656.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interest_Calculator_SF_MASOKA_39069656.exe" size="126904">
+      <assemblyIdentity name="Interest_Calculator_SF_MASOKA_39069656" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>UtDmOE1Uqr2i9H7DAz+7LjryShoIDp78Gjx0/UOYjmQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Interest_Calculator_SF_MASOKA_39069656.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SFMASOKA\fsmas" issuerKeyHash="8eea99976ba5eeac47da474cee9314431e4f15b2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>4GKGtIS/plcQ3Kf+GbKWgb9eQYAWMpTxOUwueBUY6xA=</DigestValue></Reference></SignedInfo><SignatureValue>JTxwkv48Jz+9Hdhsiskpr9oSAmT1o7UZFdNnMRGXzpMlr9aYIIzs4T9VLntQGaaTtT71672Y2zOWNn4KjaJWrYmkLkUapQT8Pn/dRfawWwU84PLC0WLj4358BSYyiusN9RenQqFZengC4UmyYSYIqLMlYPOqWpW1+GX2uNPjnK0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>kjEc3yiJVWrYJADtVYRn/uMDDozQ2licJRET1Mo8C6Q+vkWnYDPjv1KfSlHrUJpeSePmdRqJ8/M8NRRd1rkzAu+s3+AliYsNvAtm1APaLjNOJ732xphoe9FET5Q6LWGjhK8fqaL09y2hYMWcX6n/UGx/TaFvARhJzcyC7wKYrtk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="10eb1815782e4c39f194321680415ebf8196b219fea7dc1057a6bf84b48662e0" Description="" Url=""><as:assemblyIdentity name="Interest_Calculator_SF_MASOKA_39069656.exe" version="1.0.0.1" publicKeyToken="4f34826c849176a1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SFMASOKA\fsmas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hFs12xzUXzbIqK4plZpRrG4cAaL8IBMCQhE1xQ23b/E=</DigestValue></Reference></SignedInfo><SignatureValue>ghakZBmVVApDTEtCGswbJJUNRBLD4ha5QmGheIRSZwiPPHKo7jga64xGKvalUS9ibcSt8XHiGD0GN++WmXwOmqNmsWiaMxuPJVEqCQoNnhGZnAXYtrIbS8UFmJA2MDUbx+ewrltwOm/Dz/Db+BxU0HssJ5yuWGDKUrJXJeJktvE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kjEc3yiJVWrYJADtVYRn/uMDDozQ2licJRET1Mo8C6Q+vkWnYDPjv1KfSlHrUJpeSePmdRqJ8/M8NRRd1rkzAu+s3+AliYsNvAtm1APaLjNOJ732xphoe9FET5Q6LWGjhK8fqaL09y2hYMWcX6n/UGx/TaFvARhJzcyC7wKYrtk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQG2pnibzW4rhDeCorkgxOyDANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAUwBGAE0AQQBTAE8ASwBBAFwAZgBzAG0AYQBzMB4XDTI1MTAyNTE5NDUxNloXDTI2MTAyNjAxNDUxNlowJzElMCMGA1UEAx4cAFMARgBNAEEAUwBPAEsAQQBcAGYAcwBtAGEAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkjEc3yiJVWrYJADtVYRn/uMDDozQ2licJRET1Mo8C6Q+vkWnYDPjv1KfSlHrUJpeSePmdRqJ8/M8NRRd1rkzAu+s3+AliYsNvAtm1APaLjNOJ732xphoe9FET5Q6LWGjhK8fqaL09y2hYMWcX6n/UGx/TaFvARhJzcyC7wKYrtkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBhI1nzHeZunnBgpwmS1P/BV+Mrk+wOIRjvPI3Ip7RzhaAJbSHMrB95JuX3g2SBi4JlSTxWnxyslSAYimMZjxVaY55lEs58TaMsLT0ly9WP8esNPd9xo+Hc7Jh8tkVb/uShQfknEnO3deFVB0M7+MLCpR6t/ip0ZTNjtO1Yi5oAWA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
